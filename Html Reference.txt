@@ -1,0 +1,19 @@
+<!DOCTYPE html>: Tells the browser the type of code it should run. It should be put at the top of the file.
+<html></html>: Roots of the file everything else should be between these.
+<head></head>: Tag used for webcrawler information should be used for things like title and linking to things like css.
+<body></body>: Tag used for defining document's body. this is where you put things like text and headers anything that is going to be displayed on the page.
+<title></title>: Tag used for the webpages name it's what the tab outputs as the name.
+<link>: Tag for linking to other docs like css.
+href: what is used to direct to files or urls. Should be used like this href=example.etc.
+<img src=example.picture>: This is for embeding images into the document
+<h1><h2><h3>:Header tags h1 is the largest h3 is the smallest.
+<p></p>: For paragraphs it will format the text automatically to fit with what a paragraph should be formated as.
+<br>: Break tag for text that you want space inbetween.
+<ul></ul>: Unordered list it will display multiple items without numbering.
+<ol></ol>: Ordered list it will display multiple items with numbering.
+<li></li>: The tag for the above mentioned listed items.
+<a></a>: This is for hyperlinks should be used with href. Example:<a href=link.etc>text</a>
+<strong></strong>: This is for bolding it should be used over the other method.
+<em></em>: This is for italicizing it should be used over the other method.
+[Do not use the tags below*]
+<b>,<i>,<u>: These are for in this order bold, italicize, and underlining the other bold and italicize methods should be used instead of these. The <u> tag should be used for different text such as misspelling or Chinese pronouns if you want to underline text you should use css.*
